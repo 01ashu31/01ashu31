@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 Experienced **Lead Consultant** with **7.4+ years** of expertise in the **Information Technology and Services** sector.  
 
-With a strong foundation in **automation testing** and **mobile application testing**, I specialize in building scalable frameworks and ensuring product excellence across complex environments.  
+With a strong foundation in **API testing**,**automation testing** and **mobile application testing**, I specialize in building scalable frameworks and ensuring product excellence across complex environments.  
 
 I’m passionate about leveraging **cutting-edge technologies** to deliver quality-driven solutions and collaborating with innovative teams to achieve organizational success.  
 
