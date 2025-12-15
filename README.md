@@ -64,7 +64,7 @@ To continuously evolve as a **Technical Leader in Automation Testing**, contribu
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashutosh%20Singh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-singh-172a3774/)  
 [![GitHub](https://img.shields.io/badge/GitHub-AshutoshSingh-black?logo=github&logoColor=white)](https://github.com/01ashu31)  
-[![Email](https://img.shields.io/badge/Email-ashutosh.singh%40email.com-red?logo=gmail&logoColor=white)](mailto:01ashu31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-01ashu31%40gmail.com-red?logo=gmail&logoColor=white)](mailto:01ashu31@gmail.com)
 
 ---
 
